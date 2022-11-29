@@ -9,5 +9,5 @@ button.addEventListener ("click", () => {
 count += 1; 
 let clicked = document.getElementById("btn__state"); 
 clicked.innerText = count; 
-
+//I have added here comments so file can be seen as updated
 })
